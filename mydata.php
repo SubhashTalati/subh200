@@ -12,7 +12,7 @@ if(isset($_POST['submit']))
 
 	if($post_email=='' or $post_pass=='')
 	{
-		echo "Enter Something";
+		echo "Enter Something  new ";
 		exit();
 	}
 	else
