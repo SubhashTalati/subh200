@@ -31,7 +31,7 @@ echo $sql1;
 			
 		if(mysql_query($sql1))
 		{
-			echo "Record Saved...";
+			echo "Record Saved Success fylly...";
 			
 		}
 		
